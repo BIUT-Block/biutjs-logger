@@ -20,8 +20,8 @@ By default, a logger writes to STDOUT, but given a writeable file path, it will 
 ### Instantiation:
 ```js
 // standardjs style
-const logger = require('./logger').createLogger() // logs to STDOUT
-const logger = require('./logger').createLogger('development.log') // logs to a file
+const logger = require('@sec-block/secjs-logger').createLogger() // logs to STDOUT
+const logger = require('@sec-block/secjs-logger').createLogger('development.log') // logs to a file
 ```
 
 ### Logging:
