@@ -1,4 +1,9 @@
-#secjs-logger
+<a name="SEC Logger"></a>
+
+* * *
+## SEC Logger
+[![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard) 
+
 https://github.com/SEC-Block/secjs-logger
 
 ###SUMMARY
