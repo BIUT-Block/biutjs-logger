@@ -1,6 +1,6 @@
 {
   "name": "@sec-block/secjs-logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple logging library for SEC-Block System",
   "main": "index.js",
   "scripts": {
